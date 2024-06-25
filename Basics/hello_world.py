@@ -5,7 +5,6 @@ def coffee(n):
 
 coffee(4)
 
-
-
-
-
+coffee_one = "latte"
+coffee_two = "mocha"
+coffee_three = "iced"
